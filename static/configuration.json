@@ -11,5 +11,6 @@
     "mini": false,
     "webSites":[
         {"name":"博客作者连接" , "url":"https://www.v2ex.com/member/laziji"}
+        {"name":"深度学习colah博客" , "url":"http://colah.github.io/"}
     ]
 }
